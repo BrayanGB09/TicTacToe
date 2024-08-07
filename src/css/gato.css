@@ -19,7 +19,8 @@ body{
         grid-template-rows: min-content min-content min-content;
         justify-content: center;
         border: 2px solid black;
-        background: linear-gradient(blue, pink);
+        background: linear-gradient(350deg, #8052ec, #d161ff);
+        box-shadow: 0 14px 40px -5px black;
         width: 306px;
         height: 308px;
 }
