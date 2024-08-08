@@ -20,7 +20,7 @@ body{
         justify-content: center;
         border: 2px solid black;
         background: linear-gradient(350deg, #8052ec, #d161ff);
-        box-shadow: 0 14px 40px -5px black;
+        box-shadow: 0 0 30px black;
         width: 306px;
         height: 308px;
 }
@@ -34,4 +34,10 @@ body{
     font-size: 40px;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     font-weight: 700;
+}
+
+.texto{
+    font-size: 40px;
+    color: red;
+    font-weight: 800;
 }
