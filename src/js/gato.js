@@ -29,7 +29,7 @@ const texto = document.getElementById("texto")
                     lista[numeroAleatorio].textContent = "☠️"
     
                 }    
-            }
+            
 
                 if (contenedor[0].textContent === "🪄" && contenedor[1].textContent === "🪄" && contenedor[2].textContent === "🪄") {
                     texto.textContent = "¡Has Ganado!"
@@ -119,6 +119,7 @@ const texto = document.getElementById("texto")
                 
                     }
                 }  
+            }
         })
     }
     
